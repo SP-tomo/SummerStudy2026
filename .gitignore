@@ -1,0 +1,14 @@
+# Ignore node_modules
+app/node_modules
+app/dist
+
+# Notion export zip if any
+*.zip
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore env files
+.env
+.env.local
