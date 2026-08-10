@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Calendar, LayoutDashboard, Map as MapIcon, CheckCircle2, Circle, Clock, TrendingUp } from 'lucide-react';
+import { Calendar, LayoutDashboard, Map as MapIcon, CheckCircle2, Clock, TrendingUp } from 'lucide-react';
 import './App.css';
 
 // Load Data
